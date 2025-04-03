@@ -12,8 +12,6 @@ ThoughtLearn edX is an innovative organization dedicated to transforming educati
 - **Mission:** Empowering the next generation with hands-on, immersive learning experiences.  
 - **Vision:** To redefine education and training through cutting-edge virtual solutions.
 
----
-
 ## What We Do
 
 We specialize in delivering:  
@@ -23,16 +21,12 @@ We specialize in delivering:
 
 Whether you're a student mastering complex concepts or a professional upskilling for the future, ThoughtLearn edX has you covered!
 
----
-
 ## Our Offerings
 
 | **Target Audience**       | **Solutions**                       | **Benefits**                          |
 |---------------------------|-------------------------------------|---------------------------------------|
 | Educational Institutes    | Virtual STEM Labs, Course Modules  | Hands-on learning, scalable access   |
 | Corporate Companies       | Workforce Training, Skill Sims     | Practical skills, measurable results |
-
----
 
 ## Why Choose ThoughtLearn edX?
 
@@ -41,15 +35,11 @@ Whether you're a student mastering complex concepts or a professional upskilling
 - **Real-World Focus:** Scenarios designed by industry experts to ensure relevance.  
 - **Community-Driven:** We collaborate with educators and professionals to evolve our offerings.
 
----
-
 ## Get Involved
 
 - **Explore Our Labs:** [Visit Our Website](https://thoughtlearn.com)  
 - **Partner With Us:** Reach out to collaborate with ThoughtLearn edX.  
 - **Contribute:** Have an idea? Submit feedback or join our open-source projects!  
-
----
 
 ## Join the Learning Revolution
 
