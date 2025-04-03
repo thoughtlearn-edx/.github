@@ -1,7 +1,6 @@
 # Welcome to ThoughtLearn edX 🚀
 
 ![ThoughtLearn EDX Banner](thoughtlearn.png)  
-*Empowering Learning Through Innovation*
 
 ---
 
