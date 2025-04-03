@@ -6,7 +6,7 @@
 
 ## About Us
 
-ThoughtLearn edX is an innovative organization dedicated to transforming education and professional training. We provide **Virtual Labs** and **Scenario-Based Training Solutions** tailored for **Educational Institutes** and **Corporate Companies**. Our mission is to bridge the gap between theoretical knowledge and practical skills, enabling learners to thrive in real-world environments.
+**ThoughtLearn edX** is an innovative organization dedicated to transforming education and professional training. We provide **Virtual Labs** and **Scenario-Based Training Solutions** tailored for **Educational Institutes** and **Corporate Companies**. Our mission is to bridge the gap between theoretical knowledge and practical skills, enabling learners to thrive in real-world environments.
  
 - **Mission:** Empowering the next generation with hands-on, immersive learning experiences.  
 - **Vision:** To redefine education and training through cutting-edge virtual solutions.
@@ -18,7 +18,7 @@ We specialize in delivering:
 - **Scenario-Based Training:** Real-world simulations to enhance problem-solving and decision-making skills.  
 - **Custom Solutions:** Tailored programs for schools, universities, and businesses.  
 
-Whether you're a student mastering complex concepts or a professional upskilling for the future, ThoughtLearn edX has you covered!
+Whether you're a student mastering complex concepts or a professional upskilling for the future, **ThoughtLearn edX** has you covered!
 
 ## Our Offerings
 
