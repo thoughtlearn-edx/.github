@@ -38,7 +38,7 @@ Whether you're a student mastering complex concepts or a professional upskilling
 
 - **Explore Our Labs:** [Visit Our Website](https://thoughtlearn.com)  
 - **Partner With Us:** Reach out to collaborate with ThoughtLearn edX.  
-- **Contribute:** Have an idea? Submit feedback or join our open-source projects!  
+- **Contribute:** Have an idea? Submit feedback or join our [Opensource](https://github.com/freedomfoss) projects!  
 
 ## Join the Learning Revolution
 
