@@ -43,11 +43,7 @@ Whether you're a student mastering complex concepts or a professional upskilling
 ## Join the Learning Revolution
 
 Ready to experience the future of education and training? Connect with us today!  
-📧 Email: [contact@thoughtlearnedx.org](mailto:contact@thoughtlearnedx.org)  
+📧 Email: [contact@thoughtlearnedx.org](mailto:contact@thoughtlearn.com)  
 🌐 Website: [thoughtlearn.com](https://thoughtlearn.com)  
 
 > "Learning is not preparation for life; learning is life itself." – John Dewey
-
----
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=thoughtlearnedx.thoughtlearnedx) 
