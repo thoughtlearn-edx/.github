@@ -1,4 +1,4 @@
-# Welcome to ThoughtLearn edX 🚀
+# Welcome to the ThoughtLearn edX 🚀
 
 ![ThoughtLearn EDX Banner](thoughtlearn.png) 
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-f27596.svg)](https://creativecommons.org/licenses/by/4.0/)
